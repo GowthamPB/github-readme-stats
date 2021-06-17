@@ -294,6 +294,12 @@ const themes = {
     text_color: "FFFFFF",
     bg_color: "2C2F33",
   },
+  majestic: {
+    title_color: "#FADA5EA",
+    icon_color: "#FADA5E",
+    text_color: "#FADA5E",
+    bg_color: "#2b3853",
+  },
 };
 
 module.exports = themes;
